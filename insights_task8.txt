@@ -1,0 +1,5 @@
+1. Sales are highly concentrated in a few top-performing products, as seen from the ROW_NUMBER and RANK analysis. This indicates that a small number of SKUs contribute a major share of total revenue.
+
+2. The running total analysis shows a consistent upward trend in cumulative sales over time, confirming steady business growth across months.
+
+3. Month-over-Month growth analysis reveals fluctuations in monthly performance, which can help the business identify seasonal demand patterns and plan inventory accordingly.
